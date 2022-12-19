@@ -1,2 +1,2 @@
 # JavaSnippets
-Java Snippets
+Some simple Java Snippets
